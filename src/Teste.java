@@ -7,7 +7,7 @@ public class Teste {
         nome1 = in.nextLine();
         System.out.print("Digite um nome: ");
         nome2 = in.nextLine();
-        System.out.print("Digite um nome: ");
+        System.out.print("Digite um nodasdme: ");
         nome3 = in.nextLine();
         
         if (nome1.compareToIgnoreCase(nome2) <0 && nome1.compareToIgnoreCase(nome3) <0){
